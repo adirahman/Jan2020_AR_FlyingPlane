@@ -1,4 +1,4 @@
-package com.androiddevs.initialarsetup
+package com.androiddevs.flyingplane
 
 import org.junit.Test
 
